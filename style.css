@@ -9,3 +9,27 @@ body{
   	position: relative;
   	background-color: #fff;
 }
+
+#banner{
+    max-width: 1000px;
+    height: auto 0;
+  	margin: 0 auto;
+  	position: relative;
+  	background-color: #fff;
+}
+
+#menu{
+    max-width: 1000px;
+    height: auto 0;
+  	margin: 0 auto;
+  	position: relative;
+  	background-color: #fff;
+}
+
+#content{
+    max-width: 1000px;
+    height: auto 0;
+  	margin: 0 auto;
+  	position: relative;
+  	background-color: #fff;
+}
